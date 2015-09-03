@@ -1,0 +1,163 @@
+@charset "utf-8";
+
+
+#nav ul {
+	list-style-type: none;
+	margin-right: -1px;
+	margin-left: -1px;
+	margin-bottom: -1px;
+	padding: 0;
+}
+
+#nav li{
+	float: left;
+	width: 300px;
+	background-color: #00BAFD 
+}
+
+#nav a{
+	display:block;
+	width: 300px;
+	color: #FFFFFF;
+	font-size: x-large;
+}
+
+#nav a:hover{
+	padding-left: 5px;
+	font-size: xx-large;
+	background-color: #006CFF;
+}
+
+h1{
+	margin-top: 20px;
+	padding-top: 70px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-decoration: underline;
+}
+
+#pic1{
+	margin-top: -103px;
+	margin-left: 784px;
+	float: right;
+	margin-right: -84px;
+	margin-bottom: 28px;
+}
+
+#main{
+	margin-top: -920px;
+	color: #000000;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: x-large;
+	float: left
+}
+
+body{
+	background-color: #FFFFFF;
+	height: 84px;
+	width: 1500px;
+	height: 1045px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 31px solid #30EBFB;
+	background-image: url(url);
+}
+#partypic {
+	margin-top: -57px;
+	margin-left: 890px;
+}
+
+#partypic_main{
+	float: left;
+	top: 154px;
+	margin-top: 14px;
+}
+
+
+#nav2 ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: xx-large;
+}
+
+#nav2 li{
+	width: 640px;
+	background-color: #00BAFD;
+	margin-top: -75px;
+	height: 66px;
+}
+
+#nav2 a{
+	display:block;
+	width: 640px;
+	color: #FFFFFF;
+	font-size: x-large;
+}
+
+#nav2 a:hover{
+	padding-left: 5px;
+	font-size: xx-large;
+	background-color: #006CFF;
+	top: 56px;
+	height: 66px;
+}
+
+#table1{
+	position: absolute;	
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+	font-size: xx-large;
+}
+
+#nav2{
+	clear: both;
+}
+
+#maintxt{
+	float: left;
+	float: top;
+	margin-top: -920px;
+	padding-left: 26px;
+	padding-right: 610px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bolder;
+	font-size: x-large;
+	word-spacing: 5px;
+	padding-top: 76px;	
+	
+}
+
+#partypic{
+	float: right;
+	
+}
+
+#sign{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+	font-size: xx-large;
+	}
+
+#info table{
+	border-style: solid;
+	border-color: #FFFFFF;
+	
+}
+
+#pic123{
+	margin-top: -103px;
+	margin-left: 784px;
+	float: right;
+	margin-right: -84px;
+	margin-bottom: 28px;
+	
+}
